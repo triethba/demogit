@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\projects\Webeporjct\Webeporjct\bin\Webeporjct.dll
+c:\users\user\documents\visual studio 2012\projects\Webeporjct\Webeporjct\bin\Webeporjct.pdb
+c:\users\user\documents\visual studio 2012\projects\Webeporjct\Webeporjct\obj\Debug\Webeporjct.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\projects\Webeporjct\Webeporjct\obj\Debug\Webeporjct.dll
+c:\users\user\documents\visual studio 2012\projects\Webeporjct\Webeporjct\obj\Debug\Webeporjct.pdb
+E:\ProjectHK3\Webeporjct\Webeporjct\bin\Webeporjct.dll
+E:\ProjectHK3\Webeporjct\Webeporjct\bin\Webeporjct.pdb
+E:\ProjectHK3\Webeporjct\Webeporjct\obj\Debug\Webeporjct.csprojResolveAssemblyReference.cache
+E:\ProjectHK3\Webeporjct\Webeporjct\obj\Debug\Webeporjct.dll
+E:\ProjectHK3\Webeporjct\Webeporjct\obj\Debug\Webeporjct.pdb

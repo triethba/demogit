@@ -1,0 +1,44 @@
+#main{
+	margin:0px auto;
+	width:937px;
+}
+
+#header{
+	margin:0px auto -10px;
+}
+
+#navigation{
+height:33px;
+margin-top:-15px;
+margin:0px 7px;
+}
+
+#back{
+	background:url(../images/05.png) repeat-y top center;
+	float:left;
+	padding:0px 5px;
+	width:auto;
+}
+
+#leftpart{
+margin:20px 0px 0px 10px;
+}
+
+#middlepart{
+margin:20px 7px 0px 9px;
+}
+
+#rightpart{
+margin:20px 8px 0px 0px;
+}
+
+html * #content{
+background:none;
+float:left;
+width:auto;
+}
+
+.bottomImg{
+margin-top:0px;
+margin-left:0px;
+}
