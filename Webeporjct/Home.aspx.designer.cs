@@ -10,6 +10,6 @@
 namespace Webeporjct {
     
     
-    public partial class Home {
+    public partial class Home {asdas
     }
 }
